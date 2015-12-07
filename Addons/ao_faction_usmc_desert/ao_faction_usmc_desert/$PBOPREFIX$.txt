@@ -1,0 +1,5 @@
+///////<HEADER>///////
+prefix=ao_faction_usmc_desert
+Pbo Type is: Arma Addon
+Sha: '7C857A8F34B4BB13F944B609DD2A0FC5A1F8C847'
+//////</HEADER>//////
