@@ -58,13 +58,13 @@ class CfgVehicleClasses
 	{
 		displayName = "Rifle Squad desert";
 	};
-	class AO_USA_BDU_INF
-	{
-		displayName = "US ARMY 1990s EU";
-	};
 	class AO_USMC_D_MGSquad
 	{
 		displayName = "Machine Gun Squad desert";
+	};
+	class AO_USA_BDU_INF
+	{
+		displayName = "US ARMY 1990s EU";
 	};
 };
 class cfgMods
