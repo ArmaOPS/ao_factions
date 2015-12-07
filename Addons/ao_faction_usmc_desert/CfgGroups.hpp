@@ -192,7 +192,7 @@ class CfgGroups
 					class Unit6
 					{
 						side = 1;
-						vehicle = "AO_USMC_D_MGSquad_ÂMG";
+						vehicle = "AO_USMC_D_MGSquad_AMG";
 						rank = "Private";
 						position[] = {12,0,0};
 					};				
