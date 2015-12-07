@@ -1,9 +1,3 @@
-////////////////////////////////////////////////////////////////////
-//DeRap: Produced from mikero's Dos Tools Dll version 5.24
-//Produced on Wed Dec 02 00:45:23 2015 : Created on Wed Dec 02 00:45:23 2015
-//http://dev-heaven.net/projects/list_files/mikero-pbodll
-////////////////////////////////////////////////////////////////////
-
 #define _ARMA_
 
 //Class ao_main : config.bin{
@@ -66,8 +60,12 @@ class CfgVehicleClasses
 	};
 	class AO_USA_BDU_INF
 	{
-		displayName = "US ARMY 1990s EU"
-	}:
+		displayName = "US ARMY 1990s EU";
+	};
+	class AO_USMC_D_MGSquad
+	{
+		displayName = "Machine Gun Squad desert";
+	};
 };
 class cfgMods
 {
