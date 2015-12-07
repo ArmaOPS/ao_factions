@@ -309,7 +309,7 @@
 		
 		linkedItems[] = {"rhsusf_ach_bare_wood_ess",
 						"rhsusf_spc_iar",
-						"ItemMap","Itemwatch"
+						"Itemwatch"
 						};
 		respawnLinkedItems[] = {"rhsusf_ach_bare_wood_ess","rhsusf_spc_iar","ItemMap","Itemwatch"};
 		
@@ -350,7 +350,6 @@
 		
 		linkedItems[] = {"rhsusf_ach_bare_des_ess",
 						"rhsusf_spc_rifleman",
-						"ItemMap",
 						"Itemwatch"
 						};
 		respawnLinkedItems[] = {"rhsusf_ach_bare_des_ess","rhsusf_spc_rifleman","ItemMap","Itemwatch"};
@@ -435,12 +434,12 @@
 		
 		linkedItems[] = {"rhsusf_ach_bare_des_ess",
 						"rhsusf_spc_rifleman",
-						"ItemMap","Itemwatch","Itemcompass","CUP_optic_ACOG"
+						"ItemMap","Itemwatch","Itemcompass"
 						};
-		respawnLinkedItems[] = {"rhsusf_ach_bare_des_ess","rhsusf_spc_rifleman","ItemMap","Itemwatch","Itemcompass","CUP_optic_ACOG"};
+		respawnLinkedItems[] = {"rhsusf_ach_bare_des_ess","rhsusf_spc_rifleman","ItemMap","Itemwatch","Itemcompass"};
 		
 		backpack = "";
-	};	
+	};
 	class AO_USMC_D_MGSquad_TL : rhsusf_usmc_marpat_d_teamleader {
 		_generalMacro = "AO_USMC_D_MGSquad_TL";
 		author = $STR_LOP_FULL_NAME;
@@ -457,7 +456,8 @@
 		
 		Items[] = 	{"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
-		RespawnItems[] = {};
+		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_quikclot",
+					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
 		weapons[] = {"CUP_arifle_M16A2","Binocular"};
 		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular"};
@@ -470,13 +470,13 @@
 						"SmokeShell","SmokeShell","SmokeShell","SmokeShell",
 						"CUP_HandGrenade_M67"
 						};
-		respawnMagazines[] = {};
+		respawnMagazines[] = {"CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_TE1_Red_Tracer_556x45_G36","CUP_30Rnd_TE1_Red_Tracer_556x45_G36","CUP_30Rnd_TE1_Red_Tracer_556x45_G36","SmokeShell","SmokeShell","SmokeShell","SmokeShell","CUP_HandGrenade_M67"};
 		
 		linkedItems[] = {"rhsusf_ach_bare_des_ess",
 						"rhsusf_spc_rifleman",
 						"ItemMap","Itemwatch","Itemcompass"
 						};
-		respawnLinkedItems[] = {};
+		respawnLinkedItems[] = {"rhsusf_ach_bare_des_ess","rhsusf_spc_rifleman","ItemMap","Itemwatch","Itemcompass"};
 		
 		backpack = "AO_USMC_MG_TLkit";
 	};
@@ -496,10 +496,11 @@
 		
 		Items[] = 	{"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
-		RespawnItems[] = {};
+		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_quikclot",
+					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_lmg_M240_ElcanM143","CUP_hgun_M9"};
-		respawnWeapons[] = {};
+		weapons[] = {"CUP_lmg_M240","CUP_hgun_M9"};
+		respawnWeapons[] = {"CUP_lmg_M240","CUP_hgun_M9"};
 		
 		magazines[] = 	{"CUP_15Rnd_9x19_M9",
 						"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",
@@ -508,13 +509,13 @@
 						"SmokeShell","SmokeShell","SmokeShell","SmokeShell",
 						"CUP_HandGrenade_M67"
 						};
-		respawnMagazines[] = {};
+		respawnMagazines[] = {"CUP_15Rnd_9x19_M9","CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M","SmokeShell","SmokeShell","SmokeShell","SmokeShell","CUP_HandGrenade_M67"};
 		
 		linkedItems[] = {"rhsusf_ach_bare_des_ess",
 						"rhsusf_spc_rifleman",
-						"ItemMap","Itemwatch"
+						"Itemwatch"
 						};
-		respawnLinkedItems[] = {};
+		respawnLinkedItems[] = {"rhsusf_ach_bare_des_ess","rhsusf_spc_rifleman","Itemwatch"};
 		
 		backpack = "AO_USMC_M9belt";
 	};
@@ -534,7 +535,8 @@
 		
 		Items[] = 	{"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_SpareBarrel"};
-		RespawnItems[] = {};
+		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_quikclot",
+					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_SpareBarrel"};
 		
 		weapons[] = {"CUP_arifle_M16A2"};
 		respawnWeapons[] = {"CUP_arifle_M16A2"};
@@ -547,13 +549,13 @@
 						"SmokeShell","SmokeShell","SmokeShell","SmokeShell",
 						"CUP_HandGrenade_M67"
 						};
-		respawnMagazines[] = {};
+		respawnMagazines[] = {"CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","CUP_30Rnd_556x45_Stanag","SmokeShell","SmokeShell","SmokeShell","SmokeShell","CUP_HandGrenade_M67"};
 		
 		linkedItems[] = {"rhsusf_ach_bare_des_ess",
 						"rhsusf_spc_rifleman",
-						"ItemMap","Itemwatch"
+						"Itemwatch"
 						};
-		respawnLinkedItems[] = {};
+		respawnLinkedItems[] = {"rhsusf_ach_bare_des_ess","rhsusf_spc_rifleman","Itemwatch"};
 		
 		backpack = "AO_USMC_MG_TLkit";
 	};
