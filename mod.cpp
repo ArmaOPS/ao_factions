@@ -1,10 +1,10 @@
 name = "Arma OPS Factions";
 picture = "ao_std_ca.paa";
 actionName = "GitHub";
-action = "https://github.com/ArmaOPS/ao_factions/";
+action = "https://github.com/ArmaOPS/ao_factions";
 description = "AO Factions V1.0.0.1a";
-logo = "ao_std_ca.paa";";
-logoOver = "ao_std_ca.paa";";
+logo = "ao_std_ca.paa";
+logoOver = "ao_std_ca.paa";
 tooltip = "Arma Operations";
 tooltipOwned = "AO Tested";
 overview = "Combat Factions for use with the Arma Operations Mod Pack.";
