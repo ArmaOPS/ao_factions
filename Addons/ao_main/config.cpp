@@ -33,7 +33,7 @@ class CfgFactionClasses
 	};
 	class AO_USA
 	{
-	displayName = "[AO] US Army 90s EU";
+	displayName = "US Army 90s Europe @AO";
 		author = "OPS";
 		icon = "";
 		priority = 1;
