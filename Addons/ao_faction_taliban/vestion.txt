@@ -1,2 +1,2 @@
-V1.1
-7.12.2015 by kOepi
+V0.5		12.2015 by kOepi
+not ready for release

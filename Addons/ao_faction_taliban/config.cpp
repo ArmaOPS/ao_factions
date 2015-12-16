@@ -1,20 +1,20 @@
 class CfgPatches 
 {
-	class AO_USMC
+	class AO_Taliban
 	{
 		units[] = 
 		{
 			"AO_Taliban_RSquad_SL",
 			"AO_Taliban_RSquad_AR",
-			"AO_Taliban_RSquad_R",
-			"AO_Taliban_RSquad_G",
+			"AO_Taliban_RSquad_R1",
+			"AO_Taliban_RSquad_R2",
+			"AO_Taliban_RSquad_GL",
 			"AO_Taliban_RSquad_MM",
 			"AO_Taliban_RSquad_AT",
 			
 			"AO_Taliban_MGSquad_TL",
 			"AO_Taliban_MGSquad_MG",
-			"AO_Taliban_MGSquad_AMG",
-			"AO_Taliban_RSquad_MM"
+			"AO_Taliban_MGSquad_AMG"
 		};
 		weapons[] = 
 		{
@@ -45,6 +45,6 @@ class cfgWeapons
 class CfgVehicles 
 {
 	#include "CfgInfantry.hpp"
-	#include "CfgBackpacks.hpp"
+//	#include "CfgBackpacks.hpp"
 };
-#include "CfgGroups.hpp"
+//#include "CfgGroups.hpp"
