@@ -2,3 +2,5 @@ V1.1
 7.12.2015 by kOepi
 
 v1.2 mgun squad added, grenades, maps
+
+v2. 17.12. 2015 by kOepi, fixed throwing and putting.

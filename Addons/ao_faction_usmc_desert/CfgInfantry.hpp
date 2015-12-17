@@ -31,8 +31,8 @@
 		RespawnItems[] = {"rhs_Booniehat_m81","ACE_personalAidKit","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_15Rnd_9x19_M9",
 						"CUP_30Rnd_556x45_Stanag",
@@ -75,8 +75,8 @@
 		RespawnItems[] = {"rhs_Booniehat_m81","ACE_personalAidKit","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_15Rnd_9x19_M9",
 						"CUP_30Rnd_556x45_Stanag",
@@ -119,8 +119,8 @@
 		RespawnItems[] = {"rhs_Booniehat_m81","ACE_personalAidKit","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
@@ -164,8 +164,8 @@
 							"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage",
 							"ACE_surgicalKit","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing","ACE_fieldDressing"};
 		
-		weapons[] = {"CUP_arifle_M16A2","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
@@ -206,8 +206,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","CUP_hgun_M9","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_15Rnd_9x19_M9",
 						"CUP_30Rnd_556x45_Stanag",
@@ -250,8 +250,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_CC","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2_GL","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2_GL","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2_GL","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2_GL","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
@@ -294,8 +294,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_CC","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_lmg_M249","CUP_hgun_M9"};
-		respawnWeapons[] = {"CUP_lmg_M249","CUP_hgun_M9"};
+		weapons[] = {"CUP_lmg_M249","CUP_hgun_M9","Throw","Put"};
+		respawnWeapons[] = {"CUP_lmg_M249","CUP_hgun_M9","Throw","Put"};
 		
 		magazines[] = 	{"CUP_100Rnd_TE4_Red_Tracer_556x45_M249",
 						"CUP_100Rnd_TE4_Red_Tracer_556x45_M249",
@@ -334,8 +334,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
@@ -375,8 +375,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet",,"ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
@@ -418,8 +418,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"AO_USMC_M16ACOG","Binocular"};
-		respawnWeapons[] = {"AO_USMC_M16ACOG","Binocular"};
+		weapons[] = {"AO_USMC_M16ACOG","Binocular","Throw","Put"};
+		respawnWeapons[] = {"AO_USMC_M16ACOG","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
@@ -459,8 +459,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_arifle_M16A2","Binocular"};
-		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular"};
+		weapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","Binocular","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
@@ -499,8 +499,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage"};
 		
-		weapons[] = {"CUP_lmg_M240","CUP_hgun_M9"};
-		respawnWeapons[] = {"CUP_lmg_M240","CUP_hgun_M9"};
+		weapons[] = {"CUP_lmg_M240","CUP_hgun_M9","Throw","Put"};
+		respawnWeapons[] = {"CUP_lmg_M240","CUP_hgun_M9","Throw","Put"};
 		
 		magazines[] = 	{"CUP_15Rnd_9x19_M9",
 						"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",
@@ -538,8 +538,8 @@
 		RespawnItems[] = {"TRYK_H_Booniehat_3CD","ACE_personalAidKit","ACE_CableTie","ACE_quikclot",
 					"ACE_EarPlugs","ACE_tourniquet","ACE_fieldDressing","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_SpareBarrel"};
 		
-		weapons[] = {"CUP_arifle_M16A2"};
-		respawnWeapons[] = {"CUP_arifle_M16A2"};
+		weapons[] = {"CUP_arifle_M16A2","Throw","Put"};
+		respawnWeapons[] = {"CUP_arifle_M16A2","Throw","Put"};
 		
 		magazines[] = 	{"CUP_30Rnd_556x45_Stanag",
 						"CUP_30Rnd_556x45_Stanag",
